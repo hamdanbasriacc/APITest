@@ -1,0 +1,20 @@
+{
+    "abilities": [
+      {
+        "ability": {
+          "name": "hamdan",
+          "url": "https://github.com/hamdanbasriacc/APITest/blob/main/HamdanRPMProfilePicture.png"
+        },
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "ability": {
+          "name": "basri",
+          "url": "https://github.com/hamdanbasriacc/APITest/blob/main/SangRimbaEnvironment2.png"
+        },
+        "is_hidden": true,
+        "slot": 3
+      }
+    ]
+}
